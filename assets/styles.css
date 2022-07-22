@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Roboto;
+}
+
+.Flow-chart{
+  width: 40%;
+  margin: 50px auto;
+  background-color: rgb(58, 58, 151);
+}
+
+.Bar-chart{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bar{
+    width: 18px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: gray;
+}
+
+.one{
+    height: 90px;
+    margin-top: 50px;
+}
+
+.two{
+    height: 120px;
+    margin-top: 20px;
+}
+
+.three{
+    height: 50px;
+    margin-top: 90px;
+}
+
+.four{
+margin-top: 110px;
+}
+
+.five{
+    height: 60px;
+    margin-top: 80px;
+}
+
+.six{
+    height: 70px;
+    margin-top: 70px;
+    background-color: rgb(102, 160, 236);
+}
+
+.seven{
+  margin-top: 110px;
+}
+
+.eight{
+    height: 120px;
+    margin-top: 20px;
+}
+
+.nine{
+    height: 70px;
+    margin-top: 70px;
+}
+
+.ten{
+    height: 80px;
+    margin-top: 60px;
+}
+
+.pie-chart{
+    border: 1px solid;
+    display: flex;
+}
+
+.stats p{
+    color: gray;
+}
+
+.white{
+    color: white;
+}
+
